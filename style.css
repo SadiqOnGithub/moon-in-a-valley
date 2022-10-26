@@ -87,7 +87,7 @@ section img#stars {
 }
 section img#moon {
   mix-blend-mode: screen;
-  /* transform: rotate(-80deg); */
+  transform: rotate(-80deg);
   transform-origin: 50% 70%;
 }
 section img#mountains_front {
